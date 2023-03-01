@@ -1,3 +1,5 @@
 {
-  "endheader": "endoff"
+  "endheader": "endoff",
+  "ch": "choff",
+  "comment": "alt_vals_are_end_ch"
 }
